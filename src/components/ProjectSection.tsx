@@ -35,7 +35,7 @@ const ProjectSection = () => {
         </SwiperSlide>
         <SwiperSlide>
            <div className={styles.projectcard}>
-          <h1>Real-Time Chat Application</h1>
+          <h1>BitShareMern</h1>
          </div>
         </SwiperSlide>
         <SwiperSlide>
@@ -45,7 +45,7 @@ const ProjectSection = () => {
         </SwiperSlide>
         <SwiperSlide>
            <div className={styles.projectcard}>
-          <h1>Form-Submission Handling</h1>
+          <h1>Real-Time Chat Application</h1>
          </div>
         </SwiperSlide>
         <SwiperSlide>

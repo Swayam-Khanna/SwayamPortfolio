@@ -30,17 +30,7 @@ const ProjectSection = () => {
       >
        <SwiperSlide>
          <div className={styles.projectcard}>
-          <h1>HTML</h1>
-         </div>
-        </SwiperSlide>
-        <SwiperSlide>
-           <div className={styles.projectcard}>
-          <h1>CSS</h1>
-         </div>
-        </SwiperSlide>
-        <SwiperSlide>
-           <div className={styles.projectcard}>
-          <h1>JS</h1>
+          <h1>HTML,CSS,JS</h1>
          </div>
         </SwiperSlide>
         <SwiperSlide>
@@ -54,7 +44,7 @@ const ProjectSection = () => {
          </div>
         </SwiperSlide>
         <SwiperSlide>
-         <div className={styles.projectcard}>
+           <div className={styles.projectcard}>
           <h1>C++</h1>
          </div>
         </SwiperSlide>
@@ -64,8 +54,8 @@ const ProjectSection = () => {
          </div>
         </SwiperSlide>
         <SwiperSlide>
-           <div className={styles.projectcard}>
-          <h1>Node.js</h1>
+         <div className={styles.projectcard}>
+          <h1>React,Node.js</h1>
          </div>
         </SwiperSlide>
         <SwiperSlide>
@@ -75,11 +65,28 @@ const ProjectSection = () => {
         </SwiperSlide>
         <SwiperSlide>
            <div className={styles.projectcard}>
-          <h1>MongoDB</h1>
+          <h1>MongoDB,
+            Mongoose</h1>
+         </div>
+        </SwiperSlide>
+        <SwiperSlide>
+           <div className={styles.projectcard}>
+          <h1>Data Structure & Allgoforhtms</h1>
+         </div>
+        </SwiperSlide>
+        <SwiperSlide>
+           <div className={styles.projectcard}>
+          <h1>Cloud Computing</h1>
          </div>
         </SwiperSlide><SwiperSlide>
            <div className={styles.projectcard}>
-          <h1>Data Structure & Allgoforhtms</h1>
+          <h1>System Design
+            (Fundamentals)</h1>
+         </div>
+        </SwiperSlide>
+        <SwiperSlide>
+           <div className={styles.projectcard}>
+          <h1>Git / GitHub,Deployment</h1>
          </div>
         </SwiperSlide>
       </Swiper>

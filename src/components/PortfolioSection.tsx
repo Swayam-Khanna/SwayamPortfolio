@@ -9,16 +9,16 @@ const PortfolioSection = () => {
         <div className={styles.left}>
           <div className={styles.about}>
             <p>Hi, I am  <span>Swayam Khanna</span></p>
-            <p>I build full stack websites and chat application,I will solve all your business problems.I am open to freelance work.</p>
+            <p> I am a Full Stack Developer specializing in building scalable web applications. I am open to full-time and freelance opportunities.</p>
           </div>
         </div>
         <div className={styles.right}>
           <div className={styles.stat}>
-            <h1>50+</h1>
-            <p>Days Badge<br></br>on LeetCode</p>
+            <h1>100+</h1>
+            <p>Days Streak<br></br>on LeetCode</p>
           </div>
           <div className={styles.stat}>
-            <h1>100+</h1>
+            <h1>200+</h1>
             <p>Working on <br></br>Data Structure <br></br>& Algorithms</p>
           </div>
         </div>
